@@ -1,0 +1,28 @@
+.Main {
+    text-align: center;
+}
+
+.namePage {
+    text-align: center;
+}
+
+.description-product {
+    display: block;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: 20px;
+}
+
+.products-greed {
+    display: inline-block;
+}
+
+.button-place {
+    text-align: center;
+}
+.products-total {
+    text-align: center;
+}
+.product-list {
+    text-align: center;
+}
